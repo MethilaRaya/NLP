@@ -1,4 +1,4 @@
-# NLP
+# NLP Utilizing Python's NLTK Package
 
     1. Found text to analyze
     2. Preprocessed text for analysis
